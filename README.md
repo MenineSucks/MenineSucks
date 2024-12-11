@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MenineSucks
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my journey forward
 - 📫 How to reach me on social medias: MenineSucks or MenineSukcs
 - 😄 Pronouns: She / They
-- ⚡ Fun fact: I an awkward and cringe
+- ⚡ Fun fact: I am awkward and cringe
 
 <!---
 MenineSucks/MenineSucks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
